@@ -1,0 +1,10 @@
+This is a test file for uploading to College Katta.
+
+The file upload system should handle text files, PDFs, DOCs, and other document formats.
+
+This file is used to test the following functionality:
+1. File upload through the modal
+2. Admin approval/rejection system
+3. File download functionality
+
+College Katta - A platform for sharing academic resources between students. 
